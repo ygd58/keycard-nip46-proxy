@@ -1,1 +1,0 @@
-/root/keycard-nip46-proxy/target/debug/keycard-nip46-proxy: /root/keycard-nip46-proxy/src/daemon.rs /root/keycard-nip46-proxy/src/keycard.rs /root/keycard-nip46-proxy/src/main.rs /root/keycard-nip46-proxy/src/nip46.rs /root/keycard-nip46-proxy/src/policy.rs

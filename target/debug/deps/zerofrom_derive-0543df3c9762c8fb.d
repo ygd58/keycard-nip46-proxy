@@ -1,6 +1,0 @@
-/root/keycard-nip46-proxy/target/debug/deps/zerofrom_derive-0543df3c9762c8fb.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/visitor.rs
-
-/root/keycard-nip46-proxy/target/debug/deps/libzerofrom_derive-0543df3c9762c8fb.so: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/visitor.rs
-
-/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/lib.rs:
-/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/visitor.rs:
