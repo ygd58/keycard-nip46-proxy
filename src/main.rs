@@ -1,3 +1,4 @@
+mod secure_channel;
 mod keycard;
 mod nip46;
 mod daemon;

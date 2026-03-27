@@ -30,3 +30,6 @@ aes = "0.8"
 cbc = "0.1"
 base64 = "0.21"
 pcsc = { version = "2", optional = true }
+hmac = "0.12.1"
+p256 = { version = "0.13.2", features = ["ecdh"] }
+rand = "0.8"
